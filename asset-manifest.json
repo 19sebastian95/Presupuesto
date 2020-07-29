@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/19sebastian95/Presupuesto.git/static/css/main.d88a1217.chunk.css",
-    "main.js": "/19sebastian95/Presupuesto.git/static/js/main.9f16ef86.chunk.js",
-    "main.js.map": "/19sebastian95/Presupuesto.git/static/js/main.9f16ef86.chunk.js.map",
-    "runtime-main.js": "/19sebastian95/Presupuesto.git/static/js/runtime-main.dea98208.js",
-    "runtime-main.js.map": "/19sebastian95/Presupuesto.git/static/js/runtime-main.dea98208.js.map",
-    "static/js/2.395ab5d3.chunk.js": "/19sebastian95/Presupuesto.git/static/js/2.395ab5d3.chunk.js",
-    "static/js/2.395ab5d3.chunk.js.map": "/19sebastian95/Presupuesto.git/static/js/2.395ab5d3.chunk.js.map",
-    "index.html": "/19sebastian95/Presupuesto.git/index.html",
-    "precache-manifest.f760749fcfdbd0e551201ea2a0027d31.js": "/19sebastian95/Presupuesto.git/precache-manifest.f760749fcfdbd0e551201ea2a0027d31.js",
-    "service-worker.js": "/19sebastian95/Presupuesto.git/service-worker.js",
-    "static/css/main.d88a1217.chunk.css.map": "/19sebastian95/Presupuesto.git/static/css/main.d88a1217.chunk.css.map",
-    "static/js/2.395ab5d3.chunk.js.LICENSE.txt": "/19sebastian95/Presupuesto.git/static/js/2.395ab5d3.chunk.js.LICENSE.txt"
+    "main.css": "/19sebastian95/Presupuesto/static/css/main.d88a1217.chunk.css",
+    "main.js": "/19sebastian95/Presupuesto/static/js/main.f74d90c3.chunk.js",
+    "main.js.map": "/19sebastian95/Presupuesto/static/js/main.f74d90c3.chunk.js.map",
+    "runtime-main.js": "/19sebastian95/Presupuesto/static/js/runtime-main.b82bbf68.js",
+    "runtime-main.js.map": "/19sebastian95/Presupuesto/static/js/runtime-main.b82bbf68.js.map",
+    "static/js/2.45117268.chunk.js": "/19sebastian95/Presupuesto/static/js/2.45117268.chunk.js",
+    "static/js/2.45117268.chunk.js.map": "/19sebastian95/Presupuesto/static/js/2.45117268.chunk.js.map",
+    "index.html": "/19sebastian95/Presupuesto/index.html",
+    "precache-manifest.a45fb66f1e2310252d7bde29c3fde1bb.js": "/19sebastian95/Presupuesto/precache-manifest.a45fb66f1e2310252d7bde29c3fde1bb.js",
+    "service-worker.js": "/19sebastian95/Presupuesto/service-worker.js",
+    "static/css/main.d88a1217.chunk.css.map": "/19sebastian95/Presupuesto/static/css/main.d88a1217.chunk.css.map",
+    "static/js/2.45117268.chunk.js.LICENSE.txt": "/19sebastian95/Presupuesto/static/js/2.45117268.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dea98208.js",
-    "static/js/2.395ab5d3.chunk.js",
+    "static/js/runtime-main.b82bbf68.js",
+    "static/js/2.45117268.chunk.js",
     "static/css/main.d88a1217.chunk.css",
-    "static/js/main.9f16ef86.chunk.js"
+    "static/js/main.f74d90c3.chunk.js"
   ]
 }
